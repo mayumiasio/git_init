@@ -2,3 +2,4 @@
 <p>基本的なワークフローを学びます</p>
 git add
 git commit
+git rm
